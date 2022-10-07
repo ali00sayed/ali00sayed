@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Sayed</h1>
 <h3 align="center">⚓Softwar - Developer🧑‍💻</h3>
-<h4 align="center">👨‍💻 Working @ <a href="https://www.datametica.com/in/">Lenskart Solutions Pvt Ltd, Bangalore</a></h3>
+<h4 align="center">👨‍💻 Working @ <a href="https://in.open.money/">Open Financial Technologies, Bangalore</a></h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali00sayed" alt="ali sayed" /> </p>
