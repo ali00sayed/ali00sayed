@@ -48,12 +48,12 @@
   
   ### Stats 📊 
   <p align="left">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali00sayedt&theme=cobalt&layout=compact&hide=html" alt="ali sayed" />
-<img  src="https://github-readme-stats.vercel.app/api?username=ali00sayedt&theme=tokyonight&show_icons=true" alt="ali sayed" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali00sayed&theme=cobalt&layout=compact&hide=html" alt="ali sayed" />
+<img  src="https://github-readme-stats.vercel.app/api?username=ali00sayed&theme=tokyonight&show_icons=true" alt="ali sayed" />
 </p>
 
  ### Get Connected 🤝
 <p align="left">
-<a href="https://linkedin.com/in/ali00sayedt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ali sayed" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/ali00sayed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ali sayed" height="30" width="30" /></a>
 <a href="https://instagram.com/ali00sayed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ali00sayed" height="30" width="30" /></a>
 </p>
