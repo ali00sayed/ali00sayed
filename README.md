@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **MEAN & MERN Stack, Redux-Saga, JS, HTML, CSS, MongoDB, MySQL**
+- 💬 Ask me about **MEAN & MERN Stack, Redux-Saga, JS, HTML, CSS,MySQL**
 
 - 📫 How to reach me **ali00sayed@outlook.com**
 
